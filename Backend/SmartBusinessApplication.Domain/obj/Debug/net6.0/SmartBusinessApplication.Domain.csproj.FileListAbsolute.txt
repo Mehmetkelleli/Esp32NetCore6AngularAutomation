@@ -1,0 +1,28 @@
+C:\Users\Mehmet Kelleli\Desktop\SmartBusinessApplication\SmartBusinessApplication.Domain\bin\Debug\net6.0\SmartBusinessApplication.Domain.deps.json
+C:\Users\Mehmet Kelleli\Desktop\SmartBusinessApplication\SmartBusinessApplication.Domain\bin\Debug\net6.0\SmartBusinessApplication.Domain.runtimeconfig.json
+C:\Users\Mehmet Kelleli\Desktop\SmartBusinessApplication\SmartBusinessApplication.Domain\bin\Debug\net6.0\SmartBusinessApplication.Domain.dll
+C:\Users\Mehmet Kelleli\Desktop\SmartBusinessApplication\SmartBusinessApplication.Domain\bin\Debug\net6.0\SmartBusinessApplication.Domain.pdb
+C:\Users\Mehmet Kelleli\Desktop\SmartBusinessApplication\SmartBusinessApplication.Domain\obj\Debug\net6.0\SmartBusinessApplication.Domain.csproj.AssemblyReference.cache
+C:\Users\Mehmet Kelleli\Desktop\SmartBusinessApplication\SmartBusinessApplication.Domain\obj\Debug\net6.0\SmartBusinessApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Kelleli\Desktop\SmartBusinessApplication\SmartBusinessApplication.Domain\obj\Debug\net6.0\SmartBusinessApplication.Domain.AssemblyInfoInputs.cache
+C:\Users\Mehmet Kelleli\Desktop\SmartBusinessApplication\SmartBusinessApplication.Domain\obj\Debug\net6.0\SmartBusinessApplication.Domain.AssemblyInfo.cs
+C:\Users\Mehmet Kelleli\Desktop\SmartBusinessApplication\SmartBusinessApplication.Domain\obj\Debug\net6.0\SmartBusinessApplication.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Kelleli\Desktop\SmartBusinessApplication\SmartBusinessApplication.Domain\obj\Debug\net6.0\SmartBusinessApplication.Domain.dll
+C:\Users\Mehmet Kelleli\Desktop\SmartBusinessApplication\SmartBusinessApplication.Domain\obj\Debug\net6.0\refint\SmartBusinessApplication.Domain.dll
+C:\Users\Mehmet Kelleli\Desktop\SmartBusinessApplication\SmartBusinessApplication.Domain\obj\Debug\net6.0\SmartBusinessApplication.Domain.pdb
+C:\Users\Mehmet Kelleli\Desktop\SmartBusinessApplication\SmartBusinessApplication.Domain\obj\Debug\net6.0\SmartBusinessApplication.Domain.genruntimeconfig.cache
+C:\Users\Mehmet Kelleli\Desktop\SmartBusinessApplication\SmartBusinessApplication.Domain\obj\Debug\net6.0\ref\SmartBusinessApplication.Domain.dll
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Domain\bin\Debug\net6.0\SmartBusinessApplication.Domain.deps.json
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Domain\bin\Debug\net6.0\SmartBusinessApplication.Domain.runtimeconfig.json
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Domain\bin\Debug\net6.0\SmartBusinessApplication.Domain.dll
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Domain\bin\Debug\net6.0\SmartBusinessApplication.Domain.pdb
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Domain\obj\Debug\net6.0\SmartBusinessApplication.Domain.csproj.AssemblyReference.cache
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Domain\obj\Debug\net6.0\SmartBusinessApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Domain\obj\Debug\net6.0\SmartBusinessApplication.Domain.AssemblyInfoInputs.cache
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Domain\obj\Debug\net6.0\SmartBusinessApplication.Domain.AssemblyInfo.cs
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Domain\obj\Debug\net6.0\SmartBusinessApplication.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Domain\obj\Debug\net6.0\SmartBusinessApplication.Domain.dll
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Domain\obj\Debug\net6.0\refint\SmartBusinessApplication.Domain.dll
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Domain\obj\Debug\net6.0\SmartBusinessApplication.Domain.pdb
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Domain\obj\Debug\net6.0\SmartBusinessApplication.Domain.genruntimeconfig.cache
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Domain\obj\Debug\net6.0\ref\SmartBusinessApplication.Domain.dll

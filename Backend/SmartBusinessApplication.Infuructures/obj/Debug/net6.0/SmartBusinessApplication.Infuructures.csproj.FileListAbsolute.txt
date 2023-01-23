@@ -1,0 +1,28 @@
+C:\Users\Mehmet Kelleli\Desktop\SmartBusinessApplication\SmartBusinessApplication.Infuructures\bin\Debug\net6.0\SmartBusinessApplication.Infuructures.deps.json
+C:\Users\Mehmet Kelleli\Desktop\SmartBusinessApplication\SmartBusinessApplication.Infuructures\bin\Debug\net6.0\SmartBusinessApplication.Infuructures.runtimeconfig.json
+C:\Users\Mehmet Kelleli\Desktop\SmartBusinessApplication\SmartBusinessApplication.Infuructures\bin\Debug\net6.0\SmartBusinessApplication.Infuructures.dll
+C:\Users\Mehmet Kelleli\Desktop\SmartBusinessApplication\SmartBusinessApplication.Infuructures\bin\Debug\net6.0\SmartBusinessApplication.Infuructures.pdb
+C:\Users\Mehmet Kelleli\Desktop\SmartBusinessApplication\SmartBusinessApplication.Infuructures\obj\Debug\net6.0\SmartBusinessApplication.Infuructures.csproj.AssemblyReference.cache
+C:\Users\Mehmet Kelleli\Desktop\SmartBusinessApplication\SmartBusinessApplication.Infuructures\obj\Debug\net6.0\SmartBusinessApplication.Infuructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Kelleli\Desktop\SmartBusinessApplication\SmartBusinessApplication.Infuructures\obj\Debug\net6.0\SmartBusinessApplication.Infuructures.AssemblyInfoInputs.cache
+C:\Users\Mehmet Kelleli\Desktop\SmartBusinessApplication\SmartBusinessApplication.Infuructures\obj\Debug\net6.0\SmartBusinessApplication.Infuructures.AssemblyInfo.cs
+C:\Users\Mehmet Kelleli\Desktop\SmartBusinessApplication\SmartBusinessApplication.Infuructures\obj\Debug\net6.0\SmartBusinessApplication.Infuructures.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Kelleli\Desktop\SmartBusinessApplication\SmartBusinessApplication.Infuructures\obj\Debug\net6.0\SmartBusinessApplication.Infuructures.dll
+C:\Users\Mehmet Kelleli\Desktop\SmartBusinessApplication\SmartBusinessApplication.Infuructures\obj\Debug\net6.0\refint\SmartBusinessApplication.Infuructures.dll
+C:\Users\Mehmet Kelleli\Desktop\SmartBusinessApplication\SmartBusinessApplication.Infuructures\obj\Debug\net6.0\SmartBusinessApplication.Infuructures.pdb
+C:\Users\Mehmet Kelleli\Desktop\SmartBusinessApplication\SmartBusinessApplication.Infuructures\obj\Debug\net6.0\SmartBusinessApplication.Infuructures.genruntimeconfig.cache
+C:\Users\Mehmet Kelleli\Desktop\SmartBusinessApplication\SmartBusinessApplication.Infuructures\obj\Debug\net6.0\ref\SmartBusinessApplication.Infuructures.dll
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Infuructures\bin\Debug\net6.0\SmartBusinessApplication.Infuructures.deps.json
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Infuructures\bin\Debug\net6.0\SmartBusinessApplication.Infuructures.runtimeconfig.json
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Infuructures\bin\Debug\net6.0\SmartBusinessApplication.Infuructures.dll
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Infuructures\bin\Debug\net6.0\SmartBusinessApplication.Infuructures.pdb
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Infuructures\obj\Debug\net6.0\SmartBusinessApplication.Infuructures.csproj.AssemblyReference.cache
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Infuructures\obj\Debug\net6.0\SmartBusinessApplication.Infuructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Infuructures\obj\Debug\net6.0\SmartBusinessApplication.Infuructures.AssemblyInfoInputs.cache
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Infuructures\obj\Debug\net6.0\SmartBusinessApplication.Infuructures.AssemblyInfo.cs
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Infuructures\obj\Debug\net6.0\SmartBusinessApplication.Infuructures.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Infuructures\obj\Debug\net6.0\SmartBusinessApplication.Infuructures.dll
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Infuructures\obj\Debug\net6.0\refint\SmartBusinessApplication.Infuructures.dll
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Infuructures\obj\Debug\net6.0\SmartBusinessApplication.Infuructures.pdb
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Infuructures\obj\Debug\net6.0\SmartBusinessApplication.Infuructures.genruntimeconfig.cache
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Infuructures\obj\Debug\net6.0\ref\SmartBusinessApplication.Infuructures.dll

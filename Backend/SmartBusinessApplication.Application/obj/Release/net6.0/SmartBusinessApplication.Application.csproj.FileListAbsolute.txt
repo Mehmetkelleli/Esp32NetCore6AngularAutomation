@@ -1,0 +1,17 @@
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Application\bin\Release\net6.0\SmartBusinessApplication.Application.deps.json
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Application\bin\Release\net6.0\SmartBusinessApplication.Application.runtimeconfig.json
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Application\bin\Release\net6.0\SmartBusinessApplication.Application.dll
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Application\bin\Release\net6.0\SmartBusinessApplication.Application.pdb
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Application\bin\Release\net6.0\SmartBusinessApplication.Domain.dll
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Application\bin\Release\net6.0\SmartBusinessApplication.Domain.pdb
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Application\obj\Release\net6.0\SmartBusinessApplication.Application.csproj.AssemblyReference.cache
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Application\obj\Release\net6.0\SmartBusinessApplication.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Application\obj\Release\net6.0\SmartBusinessApplication.Application.AssemblyInfoInputs.cache
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Application\obj\Release\net6.0\SmartBusinessApplication.Application.AssemblyInfo.cs
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Application\obj\Release\net6.0\SmartBusinessApplication.Application.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Application\obj\Release\net6.0\SmartBusinessApplication.Application.csproj.CopyComplete
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Application\obj\Release\net6.0\SmartBusinessApplication.Application.dll
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Application\obj\Release\net6.0\refint\SmartBusinessApplication.Application.dll
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Application\obj\Release\net6.0\SmartBusinessApplication.Application.pdb
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Application\obj\Release\net6.0\SmartBusinessApplication.Application.genruntimeconfig.cache
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\Kombi projesi\Backend\SmartBusinessApplication.Application\obj\Release\net6.0\ref\SmartBusinessApplication.Application.dll

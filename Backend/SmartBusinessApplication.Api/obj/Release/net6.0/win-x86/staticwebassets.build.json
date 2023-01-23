@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LugB6OOnWx1Djd7lZoN0tTdY9tvrKjgTlWOwQR2fSLg=",
+  "Source": "SmartBusinessApplication.Api",
+  "BasePath": "_content/SmartBusinessApplication.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
