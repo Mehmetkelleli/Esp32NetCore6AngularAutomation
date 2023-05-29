@@ -3,7 +3,7 @@ Esp32 for Angular Net Core Api Project
 
 Client App Dosyası Bilerek Verilmemiştir 
 Demo Versiyon için
-http://www.machine.somee.com/
+https://smartbusinessapplicationapi20230529141426.azurewebsites.net/
 U : Deneme
 P : Deneme
 Makinesine Ulaşabilirsiniz
